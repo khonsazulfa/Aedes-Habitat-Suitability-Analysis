@@ -83,6 +83,9 @@ Figure above depicts the result of Correlation Test between Square Root Aedes Oc
 
 Figure above show the result of multivariable linear regression with 95% of confidence interval. R-squared is 0.0086 which indicates that 0.8% of the variation in square root of Aedes occurrences is explained using average precipitation, average temperature and log population density. The result indicates the poor model but that does not mean the model is invalid. The regression equation is:
 
+√Aedes  Occurrences = 1.35 - 0.0003 [Average Temperature] - 0.009 [Average Precipitation] + 0.024 log⁡[Population Density]
+
+
 ![image](https://github.com/user-attachments/assets/7caab82e-c031-407d-8687-9a35755bf97b)
 
 # Conclusion
